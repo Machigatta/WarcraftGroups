@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: |cffCCCCCCWarcraft|r|cffCCCCCC>Groups|r
+## Author: Machigatta
+## Version: 1.0
+
+## SavedVariables: WGSettings
+
+lib/main.xml
